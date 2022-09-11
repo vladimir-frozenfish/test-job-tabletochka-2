@@ -92,9 +92,6 @@ class Geo(models.Model):
 
 
 class Location(models.Model):
-    # drugstore = models.OneToOneField(
-    #     Drugstore, on_delete=models.CASCADE, verbose_name='Аптека'
-    # )
     lat = models.DecimalField(
         max_digits=8, decimal_places=6, verbose_name='Широта'
     )

@@ -10,6 +10,7 @@
 - drugstore/<id>/ - PUT, DELETE - редактирование аптеки, удаление аптеки
 - drugstore/?region='region_name' - GET - фильтрация аптек по региону
 - drugstore/?city='city_name' - GET - фильтрация аптек по городу
+- drugstore/near?lat=50.63&lon=38.40&radius=80 - GET - выдача ближайших аптек от географической координате на указанное расстояние в км
 - create_drugstores/ - POST - создание записей аптек из списка
 
 ### Приложения проекта:

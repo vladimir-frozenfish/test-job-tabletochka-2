@@ -168,3 +168,9 @@ class DrugstoreCreateSerializer(serializers.ModelSerializer):
         )
 
         return drugstore
+
+
+class NearSearilez(serializers.Serializer):
+    lat = serializers.DecimalField(max_digits=8, decimal_places=6)
+    lon = serializers.DecimalField(max_digits=8, decimal_places=6)
+    radius = serializers.FloatField()
