@@ -1,9 +1,11 @@
+from django.shortcuts import get_object_or_404
 from rest_framework import serializers
 
 from drugstores.models import (
     Drugstore,
     Location,
     Geo,
+    Schedule,
     ScheduleDrugstore
 )
 
@@ -64,14 +66,31 @@ class DrugstoreSerializer(serializers.ModelSerializer):
         return schedule_list
 
 
+class ScheduleJSONField(serializers.Field):
+    # def to_representation(self, value):
+    #      return value.all().values("id")
+
+    def to_internal_value(self, data):
+        """валидация расписания"""
+        print(data)
+        """дней недели должно быть 7"""
+        if len(data) != 7:
+            raise serializers.ValidationError({'message': 'Дней недели в раписание должно быть 7'})
+
+        # raise serializers.ValidationError({'message': 'Проверка дней недели'})
+        return data
+
+
 class DrugstoreCreateSerializer(serializers.ModelSerializer):
     geo = GeoSerializer()
+    schedule = ScheduleJSONField()
 
     class Meta:
         fields = (
             'drugstore_id',
             'geo',
             'phone',
+            'schedule'
          )
         model = Drugstore
 
@@ -80,13 +99,27 @@ class DrugstoreCreateSerializer(serializers.ModelSerializer):
             'drugstore_id': instance.drugstore_id
         }
 
+    def list_for_schedule(self, drugstore, schedule):
+        """возвращает список дней для создания аптеки"""
+        return [ScheduleDrugstore(
+            drugstore=drugstore,
+            schedule=get_object_or_404(Schedule, day=day['day']),
+            start=day['start'],
+            end=day['end'],
+        ) for day in schedule]
+
     def create(self, validated_data):
         geo = validated_data.pop('geo')
         location = geo.pop('location')
+        schedule = validated_data.pop('schedule')
 
         location_obj = Location.objects.create(**location)
         geo_obj = Geo.objects.create(location=location_obj, **geo)
 
         drugstore = Drugstore.objects.create(geo=geo_obj, **validated_data)
+
+        ScheduleDrugstore.objects.bulk_create(
+            self.list_for_schedule(drugstore, schedule)
+        )
 
         return drugstore
