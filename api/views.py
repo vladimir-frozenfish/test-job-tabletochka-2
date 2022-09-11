@@ -1,3 +1,4 @@
+from django_filters.rest_framework import DjangoFilterBackend
 from rest_framework import viewsets, status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
@@ -5,6 +6,7 @@ from rest_framework.response import Response
 from drugstores.models import Drugstore
 
 from .serializers import DrugstoreSerializer, DrugstoreCreateSerializer
+from .filters import DrugstoreFilter
 
 
 @api_view(['POST'])
@@ -30,6 +32,9 @@ def create_drugstores(request):
 class DrugstoreViewSet(viewsets.ModelViewSet):
     queryset = Drugstore.objects.all()
     serializer_class = DrugstoreSerializer
+    filter_backends = [DjangoFilterBackend, ]
+    filterset_class = DrugstoreFilter
+
 
     def get_serializer_class(self):
         if self.request.method == 'POST':

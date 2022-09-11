@@ -7,7 +7,9 @@
 
 ### Эндпоинты API:
 - drugstore/ - GET, POST - все аптеки, создание аптеки
-- drugstore/<id> - PUT, DELETE - редактирование аптеки, удаление аптеки
+- drugstore/<id>/ - PUT, DELETE - редактирование аптеки, удаление аптеки
+- drugstore/?region='region_name' - GET - фильтрация аптек по региону
+- drugstore/?city='city_name' - GET - фильтрация аптек по городу
 - create_drugstores/ - POST - создание записей аптек из списка
 
 ### Приложения проекта:
