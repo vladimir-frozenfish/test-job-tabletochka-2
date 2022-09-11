@@ -12,6 +12,7 @@ from .models import (
 class DrugstoreAdmin(admin.ModelAdmin):
     list_display = (
         'drugstore_id',
+        'geo',
         'created_at',
         'updated_at',
         'phone',
