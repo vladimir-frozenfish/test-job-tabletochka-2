@@ -25,7 +25,8 @@ class Drugstore(models.Model):
     )
 
     def schedule_representation(self):
-        return get_schedule_representation(self)
+        schedule = ScheduleDrugstore.objects.filter(drugstore=self)
+        return get_schedule_representation(schedule)
 
     schedule_representation.short_description = 'Время работы аптеки'
 

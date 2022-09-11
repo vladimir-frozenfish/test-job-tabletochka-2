@@ -61,7 +61,7 @@ class DrugstoreSerializer(serializers.ModelSerializer):
                 {
                     'day': day.schedule.day,
                     'day_name': day.schedule.day_name,
-                    'start': day.start.strftime('%H:%M') or '',
+                    'start': '' if day.start is None else day.start.strftime('%H:%M'),
                     'end': day.end.strftime('%H:%M')
                 }
             )
@@ -99,6 +99,9 @@ class ScheduleJSONField(serializers.Field):
                                                                ' Если вы указываете круглосуточную работу аптеки, '
                                                                'то необходимо начало работы не указывать, а окончание '
                                                                'работы указать - 23:59')})
+            if day['start'] == '':
+                day['start'] = None
+
         return data
 
 
