@@ -1,3 +1,5 @@
+import time
+
 from django.shortcuts import get_object_or_404
 from rest_framework import serializers
 
@@ -59,25 +61,44 @@ class DrugstoreSerializer(serializers.ModelSerializer):
                 {
                     'day': day.schedule.day,
                     'day_name': day.schedule.day_name,
-                    'start': day.start or '',
-                    'end': day.end
+                    'start': day.start.strftime('%H:%M') or '',
+                    'end': day.end.strftime('%H:%M')
                 }
             )
         return schedule_list
 
 
 class ScheduleJSONField(serializers.Field):
-    # def to_representation(self, value):
-    #      return value.all().values("id")
 
     def to_internal_value(self, data):
         """валидация расписания"""
-        print(data)
+
         """дней недели должно быть 7"""
         if len(data) != 7:
             raise serializers.ValidationError({'message': 'Дней недели в раписание должно быть 7'})
 
-        # raise serializers.ValidationError({'message': 'Проверка дней недели'})
+        """дни недели должны быть последовательеы - 1-7"""
+        if len({i['day'] for i in data}) != 7:
+            raise serializers.ValidationError({'message': 'Проверьте правильность указания дней в расписании'})
+
+        """правильность указания времени"""
+        for day in data:
+            try:
+                if day['start'] != '':
+                    time.strptime(day['start'], '%H:%M')
+                time.strptime(day['end'], '%H:%M')
+            except ValueError:
+                raise serializers.ValidationError({'message': 'Проверьте правильность указания времени в расписании'})
+
+            """правильность указания круглосуточной работы аптеки"""
+            if (
+                    day['start'] == '' and day['end'] != '23:59' or
+                    day['start'] != '' and day['end'] == '23:59'
+            ):
+                raise serializers.ValidationError({'message': ('Проверьте правильность указания времени в раписании.'
+                                                               ' Если вы указываете круглосуточную работу аптеки, '
+                                                               'то необходимо начало работы не указывать, а окончание '
+                                                               'работы указать - 23:59')})
         return data
 
 
