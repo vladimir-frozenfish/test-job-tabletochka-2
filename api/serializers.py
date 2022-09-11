@@ -67,6 +67,54 @@ class DrugstoreSerializer(serializers.ModelSerializer):
             )
         return schedule_list
 
+    def list_for_schedule(self, drugstore, schedule):
+        """возвращает список дней для создания аптеки"""
+        return [ScheduleDrugstore(
+            drugstore=drugstore,
+            schedule=get_object_or_404(Schedule, day=day['day']),
+            start=day['start'],
+            end=day['end'],
+        ) for day in schedule]
+
+    def update(self, instance, validated_data):
+
+        """получение нового расписания, удаление старного раписания"""
+        schedule = self.initial_data.get('schedule')
+
+        """получение нового гео, location"""
+        geo = validated_data.get('geo')
+        location = geo.pop('location')
+
+        """сохранение основной информации о аптеке"""
+        if validated_data.get('drugstore_id') == instance.drugstore_id:
+            instance.drugstore_id = validated_data.get('drugstore_id', instance.drugstore_id)
+            instance.phone = validated_data.get('phone', instance.phone)
+            instance.geo.address = geo.get('address', instance.geo.address)
+            instance.geo.city_id = geo.get('city_id', instance.geo.city_id)
+            instance.geo.city_name = geo.get('city_name', instance.geo.city_name)
+            instance.geo.region_id = geo.get('region_id', instance.geo.region_id)
+            instance.geo.region_name = geo.get('region_name', instance.geo.region_name)
+            instance.geo.location.lat = location.get('lat', instance.geo.location.lat)
+            instance.geo.location.lon = location.get('lon', instance.geo.location.lon)
+            instance.save()
+        else:
+            location_obj = Location.objects.create(**location)
+            geo_obj = Geo.objects.create(location=location_obj, **geo)
+            instance.drugstore_id = validated_data.get('drugstore_id', instance.drugstore_id)
+            instance.phone = validated_data.get('phone', instance.phone)
+            instance.geo = geo_obj
+            instance.save()
+
+        drugstore = Drugstore.objects.get(drugstore_id=instance.drugstore_id)
+
+        """сохранение нового расписания"""
+        ScheduleDrugstore.objects.filter(drugstore=drugstore).delete()
+        ScheduleDrugstore.objects.bulk_create(
+            self.list_for_schedule(drugstore, schedule)
+        )
+
+        return instance
+
 
 class ScheduleJSONField(serializers.Field):
 
