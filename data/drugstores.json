@@ -1,0 +1,5135 @@
+[
+    {
+        "drugstore_id": "eba8610c-7b62-4d8e-805d-a0002a522399",
+        "geo": {
+            "address": "Спортивная ул, 2В",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.56776,
+                "lon": 36.554344
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "16e2e22a-9e73-4de4-8198-8dd28e440fb0",
+        "geo": {
+            "address": "Лесной мкр, 17А",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.322718,
+                "lon": 37.887489
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "108ddb60-e8ca-4730-83ee-bbdbc3d75004",
+        "geo": {
+            "address": "Пирогова ул, 45",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.580339,
+                "lon": 36.565798
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "6db02e68-04a8-4897-8632-4bd4d5817abe",
+        "geo": {
+            "address": "Центральная ул, 11",
+            "city_id": "ba769cd9-bd7e-11e8-9d21-a4bf0123bbfb",
+            "city_name": "Вейделевка",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.150264,
+                "lon": 38.443421
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "c822946e-e981-4f38-876b-4cd5b8603e98",
+        "geo": {
+            "address": "Победы ул, 118",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.595197,
+                "lon": 36.575598
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "215df907-51d6-45b2-8803-f67f1dda4ac0",
+        "geo": {
+            "address": "Студенческая ул, 8А",
+            "city_id": "15597d7f-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Курск",
+            "region_id": "72188747-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Курская область",
+            "location": {
+                "lat": 51.739497,
+                "lon": 36.14438
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "2cd07f8a-bd91-49d4-8825-e71d7f218f21",
+        "geo": {
+            "address": "Щорса ул, 51",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.557529,
+                "lon": 36.573218
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "dbaf8a85-9fa3-4b99-88c3-1604e0153e11",
+        "geo": {
+            "address": "Б.Хмельницкого пр-кт, 148Б",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.629355,
+                "lon": 36.574682
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "7ccbfcfd-fbe4-497c-8a1e-bced9018c7c3",
+        "geo": {
+            "address": "Советская ул, 58",
+            "city_id": "d789cc61-23fd-11eb-9d66-00155d0c026d",
+            "city_name": "Брянск",
+            "region_id": "72188748-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Брянская область",
+            "location": {
+                "lat": 53.124712,
+                "lon": 34.981888
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "6dec052b-0df5-497f-8c59-6fe33c7088bb",
+        "geo": {
+            "address": "Советская ул, 2",
+            "city_id": "d4746472-f476-11e8-9d1f-ec0d9ac026a5",
+            "city_name": "Ивня",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.0592,
+                "lon": 36.142652
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "9a85c5f0-4771-455f-8e43-274903cb0ac5",
+        "geo": {
+            "address": "Молодежная ул, 6А",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.565157,
+                "lon": 36.536657
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "dc4679dc-2e01-462c-9098-406e8fb7b8fe",
+        "geo": {
+            "address": "Садовая ул, 10",
+            "city_id": "15597d7f-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Курск",
+            "region_id": "72188747-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Курская область",
+            "location": {
+                "lat": 51.7416,
+                "lon": 36.192611
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "19:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "19:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "c5b765a9-3fb1-49b4-90b1-36301bf0d617",
+        "geo": {
+            "address": "Некрасова ул, 17А",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.623683,
+                "lon": 36.580006
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "e0302b20-16a2-412f-90ca-52a487e14151",
+        "geo": {
+            "address": "Чапаева ул, 1А",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.595626,
+                "lon": 36.569993
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "7870e485-e406-4d72-90f8-64ddc45032a5",
+        "geo": {
+            "address": "Костюкова ул, 13",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.578558,
+                "lon": 36.575191
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "6dfd7e47-dc80-4808-95ff-251a9e838d39",
+        "geo": {
+            "address": "Есенина ул, 36Б",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.55619,
+                "lon": 36.561612
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "",
+                "end": "23:59"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "93f6f898-8d2e-4e1a-9923-12ffa00c6965",
+        "geo": {
+            "address": "Каштановая ул, 39",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.594968,
+                "lon": 36.535462
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "926ffb3f-b5ff-4f92-9a23-46d850eb8c2c",
+        "geo": {
+            "address": "Костюкова ул, 35",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.578309,
+                "lon": 36.580404
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "4244e148-a95c-4925-9e61-322ab969f409",
+        "geo": {
+            "address": "Красная ул, 13",
+            "city_id": "5a85bf3f-1809-11ea-9d4d-00155d0c025f",
+            "city_name": "Бирюч",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.666114,
+                "lon": 38.391633
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "07:30",
+                "end": "17:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "07:30",
+                "end": "17:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "f1ff995a-22cd-4cae-a500-ce3e4805d045",
+        "geo": {
+            "address": "Народный б-р, 82",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.601023,
+                "lon": 36.588184
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "99222d23-0b10-421c-a675-cdf2a24c3401",
+        "geo": {
+            "address": "Юности б-р, 21Б",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.559246,
+                "lon": 36.558432
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "e486eeaa-d558-4844-b0e3-59f5c1cc0596",
+        "geo": {
+            "address": "Петровского ул, 2А",
+            "city_id": "5b4c4eb4-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Шебекино",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.422514,
+                "lon": 36.897743
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "7ac99b3d-a74d-499b-b53f-1a3ded32653d",
+        "geo": {
+            "address": "Костюкова ул, 45",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.577762,
+                "lon": 36.586284
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "350b62a9-522b-4070-b5d4-00988409cd77",
+        "geo": {
+            "address": "Нагорная ул, 2",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.601526,
+                "lon": 36.60527
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "0e42988e-835d-49d0-b6af-5b97921b3165",
+        "geo": {
+            "address": "Ватутина пр-кт, 9А",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.574779,
+                "lon": 36.584016
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "20db5934-822b-45a5-b6e6-782751d62bda",
+        "geo": {
+            "address": "Белгородский пр-кт, 95",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.602527,
+                "lon": 36.585794
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "d163672c-b655-4b33-b6ea-f03d51c53a15",
+        "geo": {
+            "address": "Макаренко ул, 6",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.582181,
+                "lon": 36.660355
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "82240d67-6aa5-43ce-b799-81947956d89f",
+        "geo": {
+            "address": "Юности б-р, 35Б",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.558593,
+                "lon": 36.553446
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "c2cbce19-52bf-47b1-bb8b-0baf1d21c14a",
+        "geo": {
+            "address": "Королева ул, 4А",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.572434,
+                "lon": 36.579506
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "",
+                "end": "23:59"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "e753c2b8-fcaf-4845-bbb2-57f1bf0a9ed1",
+        "geo": {
+            "address": "Славы пр-кт, 5",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.594997,
+                "lon": 36.604946
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "d5dcda14-2f5e-48d7-8e95-b8c98c4fd3d0",
+        "geo": {
+            "address": "Гагарина ул, 17",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.617674,
+                "lon": 36.581132
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "4bcfe39b-d671-49e0-a863-9dc2cb2ece88",
+        "geo": {
+            "address": "Белгородский пр-кт, 65А",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.601097,
+                "lon": 36.598164
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "",
+                "end": "23:59"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "0c0db4a6-e96b-4197-a3ec-a009dae26e42",
+        "geo": {
+            "address": "Лебединец мкр, 1А",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.284996,
+                "lon": 37.802724
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "c26ad9b4-b424-4eec-b16a-911d811644a9",
+        "geo": {
+            "address": "М.Горького ул, 4/1",
+            "city_id": "3f1834f5-28dc-11e7-bf4f-001e6784c60d",
+            "city_name": "Валуйки",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.212151,
+                "lon": 38.097785
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "644542dd-7fba-4f49-8379-82467310335c",
+        "geo": {
+            "address": "Мира ул, 15",
+            "city_id": "7ed7b80b-cb89-11e7-b856-0002c94d4f2a",
+            "city_name": "Грайворон",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.485282,
+                "lon": 35.665818
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "19:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "d4b7b8d0-322b-45a7-8b5a-a697d8418ffc",
+        "geo": {
+            "address": "Мостовая ул, 88",
+            "city_id": "c8ef279e-f476-11e8-9d1f-ec0d9ac026a5",
+            "city_name": "Алексеевка",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.631692,
+                "lon": 38.691661
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "36b2ce9f-9b6e-4c74-bceb-0606dd35a1bd",
+        "geo": {
+            "address": "Тургенева ул, 6Б",
+            "city_id": "5a85bf3f-1809-11ea-9d4d-00155d0c025f",
+            "city_name": "Бирюч",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.646476,
+                "lon": 38.38989
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "07:30",
+                "end": "18:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "07:30",
+                "end": "18:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "99bd37ac-e193-4b44-95ba-8a3f5f8c8b3f",
+        "geo": {
+            "address": "50 лет Октября ул, 1",
+            "city_id": "15597d7f-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Курск",
+            "region_id": "72188747-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Курская область",
+            "location": {
+                "lat": 51.721073,
+                "lon": 36.166712
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "25fc98bf-6ebf-4139-9f8f-c7ff13006d41",
+        "geo": {
+            "address": "Губкина ул, 25А",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.564556,
+                "lon": 36.561693
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "9efd940b-bdab-4822-b72f-a9389559bfc4",
+        "geo": {
+            "address": "50-летия Белгородской области ул, 21",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.603293,
+                "lon": 36.585669
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "8723a503-d708-47ad-85d9-ea638c577222",
+        "geo": {
+            "address": "Б.Хмельницкого пр-кт, 139Б",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.637388,
+                "lon": 36.570271
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "21:50"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "21:50"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "21:50"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "21:50"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "21:50"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:50"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:50"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "cf406fb8-8578-431d-a585-34fb97d8d0aa",
+        "geo": {
+            "address": "Привольная ул, 1А",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.632177,
+                "lon": 36.568574
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "44f426e7-7955-42a2-accb-54a4c8638dc2",
+        "geo": {
+            "address": "Ленина ул, 42-А",
+            "city_id": "5b4c4eb4-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Шебекино",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.408713,
+                "lon": 36.88399
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "",
+                "end": "23:59"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "8cf7c119-005c-4e5d-ad59-62f6a5e17fcd",
+        "geo": {
+            "address": "Анатолия Дериглазова пр-кт, 33",
+            "city_id": "15597d7f-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Курск",
+            "region_id": "72188747-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Курская область",
+            "location": {
+                "lat": 51.807804,
+                "lon": 36.165095
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "59606489-f985-4f31-b52a-30f18243c99f",
+        "geo": {
+            "address": "Карла Маркса ул, 33/41",
+            "city_id": "15597d7f-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Курск",
+            "region_id": "72188747-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Курская область",
+            "location": {
+                "lat": 51.754358,
+                "lon": 36.190266
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "785c1ce3-c76d-4b8b-887b-92ef20e8fe13",
+        "geo": {
+            "address": "Ленина ул, 20А",
+            "city_id": "1d85c22b-4785-11e7-9c26-001e6784c60d",
+            "city_name": "Строитель",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.78332,
+                "lon": 36.491287
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "684eb6d1-a23b-44f5-9422-e533fe389297",
+        "geo": {
+            "address": "Приборостроитель мкр, 31",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.298075,
+                "lon": 37.833447
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "8e4bcf71-7c5c-41e5-83f7-24bc60293fe0",
+        "geo": {
+            "address": "Горняк мкр, 1",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.283408,
+                "lon": 37.8161
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "5abeda2a-d0cb-440d-859a-ceddee38561e",
+        "geo": {
+            "address": "Космонавтов ул, 7А",
+            "city_id": "c4d71312-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Губкин",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.278619,
+                "lon": 37.511616
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "60804bc9-26e3-434c-888a-47e1310b1e90",
+        "geo": {
+            "address": "Чайковского ул, 16",
+            "city_id": "c4d71312-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Губкин",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.281256,
+                "lon": 37.538916
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "d80fe7e5-85ce-4aca-8af1-43998f248be7",
+        "geo": {
+            "address": "Ватутина ул, 11",
+            "city_id": "352f0329-eba0-11e7-9add-001e6784c60c",
+            "city_name": "Томаровка",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.684899,
+                "lon": 36.23205
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "c09b54c8-56a9-4f4a-8e81-9eeabeff576b",
+        "geo": {
+            "address": "Садовая ул, 2В",
+            "city_id": "98ce8cde-0a77-11e8-b60c-001e6784c60d",
+            "city_name": "Майский",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.520802,
+                "lon": 36.450485
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "e0bcca4b-c811-4255-9831-c4782a8dfe58",
+        "geo": {
+            "address": "Солнечный мкр, 34",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.312017,
+                "lon": 37.898763
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "0477f833-e4c5-4181-9ef4-b5c4f0695887",
+        "geo": {
+            "address": "Садовая ул, 75",
+            "city_id": "87b764a0-37dc-11e8-9d15-a4bf0123bbfb",
+            "city_name": "Таврово",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.507259,
+                "lon": 36.575716
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "8deacea4-becc-4f5d-a3ef-ec8f2e24fb7c",
+        "geo": {
+            "address": "Сиреневый б-р, 4А",
+            "city_id": "21ab7d43-ba43-11e7-b856-0002c94d4f2a",
+            "city_name": "Разумное",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.531953,
+                "lon": 36.687031
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "5542763c-6de6-4207-a7b1-ad7c5fab56b3",
+        "geo": {
+            "address": "Королева ул, 54В",
+            "city_id": "3d7e90f2-841c-11e7-a903-001e6784c60d",
+            "city_name": "Стрелецкое",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.635604,
+                "lon": 36.47123
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "68aec2d4-b8cd-48e2-a930-231780ae5526",
+        "geo": {
+            "address": "1 Мая ул, 62",
+            "city_id": "98176358-cb88-11e7-b856-0002c94d4f2a",
+            "city_name": "Маслова Пристань",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.450217,
+                "lon": 36.748623
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "02d9fb2e-ba02-46e3-aa0b-e188f89ae674",
+        "geo": {
+            "address": "Зеленая ул, 9",
+            "city_id": "3829afb5-f75f-11e6-87ef-001e6784c60c",
+            "city_name": "Дубовое",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.538137,
+                "lon": 36.581725
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "c9b9a734-e27a-4451-ac07-f0452d781ef9",
+        "geo": {
+            "address": "Королева ул, 16А",
+            "city_id": "c4d71312-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Губкин",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.274478,
+                "lon": 37.507897
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "be84782b-9c19-46c2-acb5-6704ef3361ed",
+        "geo": {
+            "address": "Олимпийский мкр, 63",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.307068,
+                "lon": 37.891253
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "a4a39f83-b62f-43a5-af07-e339fa112639",
+        "geo": {
+            "address": "1 Мая ул, 5",
+            "city_id": "a51f2a63-cb87-11e7-b856-0002c94d4f2a",
+            "city_name": "Новый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.763897,
+                "lon": 37.862148
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "71af0b65-ad9b-483e-b025-c5b26ffa7449",
+        "geo": {
+            "address": "Звездный мкр, 1",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.290905,
+                "lon": 37.823278
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "340e4fe9-9c20-401b-b58a-43d7ab30d9a2",
+        "geo": {
+            "address": "Советская ул, 2",
+            "city_id": "4bd5875f-358e-11e7-92fc-001e6784c60d",
+            "city_name": "Борисовка",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.607409,
+                "lon": 36.008501
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "18:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "18:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "18:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "18:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "18:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "18:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "18:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "11b1bb10-cf80-4ace-b6c7-72485411df96",
+        "geo": {
+            "address": "Космонавтов ул, 17А",
+            "city_id": "c4d71312-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Губкин",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.278464,
+                "lon": 37.505427
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "74afcfcf-5e94-4c02-b897-ed06579f21d4",
+        "geo": {
+            "address": "Олимпийский мкр, 20А",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.30655,
+                "lon": 37.900829
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "6ca1ba25-a568-4709-9f17-174dd697740c",
+        "geo": {
+            "address": "Матросова ул, 31",
+            "city_id": "6ebcb580-ea41-11e7-9add-001e6784c60c",
+            "city_name": "Октябрьский",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.437804,
+                "lon": 36.364809
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "",
+                "end": "23:59"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "",
+                "end": "23:59"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "ea7cde61-9ef1-4638-ae70-7aec65a1e4d5",
+        "geo": {
+            "address": "Щорса ул, 39а",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.568515,
+                "lon": 36.572059
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "81c5df22-ab36-44dd-b210-fba0ca7f2f5e",
+        "geo": {
+            "address": "Советская ул, 5",
+            "city_id": "7ed7b80b-cb89-11e7-b856-0002c94d4f2a",
+            "city_name": "Грайворон",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.484533,
+                "lon": 35.667761
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "19:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "19:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "254e84c8-2594-4142-8e9a-76cc401f3f4e",
+        "geo": {
+            "address": "Ленина ул, 1",
+            "city_id": "50c001dd-cded-11e7-bb3a-001e6784c60d",
+            "city_name": "Волоконовка",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.487645,
+                "lon": 37.856722
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "49fce6a5-a1f4-40fb-a482-c180031f378e",
+        "geo": {
+            "address": "Кирова ул, 9-1",
+            "city_id": "98ce8cde-0a77-11e8-b60c-001e6784c60d",
+            "city_name": "Майский",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.522797,
+                "lon": 36.454631
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "2eecfa27-0519-447f-84ef-4ef434b1b51f",
+        "geo": {
+            "address": "Есенина ул, 7",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.554439,
+                "lon": 36.571331
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "bc50c75c-c70d-44ad-851c-8aa08827d547",
+        "geo": {
+            "address": "Жукова мкр, 45",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.311133,
+                "lon": 37.881866
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "657326e1-b2fd-47dd-a721-6237db1c0c6f",
+        "geo": {
+            "address": "Интернациональный мкр, 12, 9",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.286776,
+                "lon": 37.809866
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "e6a8408b-dda5-4297-ab26-f9703dbbf633",
+        "geo": {
+            "address": "Второй Восточный пер",
+            "city_id": "9232401f-89a1-11e8-9d1f-a4bf0123bbfb",
+            "city_name": "Северный",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.674649,
+                "lon": 36.577934
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "5eb0702c-ea31-4e69-b142-f932a6cc898a",
+        "geo": {
+            "address": "Жукова ул, 7Б",
+            "city_id": "1d85c22b-4785-11e7-9c26-001e6784c60d",
+            "city_name": "Строитель",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.787638,
+                "lon": 36.498442
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "547a6d6d-ee7e-4081-bb9f-8a1cc5df82e9",
+        "geo": {
+            "address": "Харьковская ул, 1",
+            "city_id": "5b4c4eb4-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Шебекино",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.406882,
+                "lon": 36.896701
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "52ae869b-f736-46ab-83e5-e9c01d5ca679",
+        "geo": {
+            "address": "Счастливая (Улитка мкр.) ул, 3",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.545504,
+                "lon": 36.547769
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "e733ec1a-e4dc-4583-a9ad-cd4d1c668dc2",
+        "geo": {
+            "address": "Лазарева ул, 12",
+            "city_id": "c4d71312-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Губкин",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.290764,
+                "lon": 37.528567
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "08:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "08:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "8a25088c-1316-4747-9c0f-24823d14af9e",
+        "geo": {
+            "address": "Б.Хмельницкого пр-кт, 82",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.611422,
+                "lon": 36.579865
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "d00dbf41-e665-4f33-bca5-32c84e811f93",
+        "geo": {
+            "address": "Ленина ул, 32",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.296368,
+                "lon": 37.834866
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "02c80c5e-cdea-49fd-8e10-cd9079bc556c",
+        "geo": {
+            "address": "Жукова мкр, 24А",
+            "city_id": "94af0082-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Старый Оскол",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 51.309433,
+                "lon": 37.892996
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "22:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "22:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "14235323-66a6-4239-92a6-5c7c395aa9ed",
+        "geo": {
+            "address": "Хрущева пр-кт, 10",
+            "city_id": "15597d7f-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Курск",
+            "region_id": "72188747-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Курская область",
+            "location": {
+                "lat": 51.734762,
+                "lon": 36.140104
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "d083ef41-9efb-46d9-a6a7-511a9d44bfc7",
+        "geo": {
+            "address": "Островского пл",
+            "city_id": "6ebcb580-ea41-11e7-9add-001e6784c60c",
+            "city_name": "Октябрьский",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.4495,
+                "lon": 36.361773
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "07:00",
+                "end": "19:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "07:00",
+                "end": "19:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "07:00",
+                "end": "19:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "07:00",
+                "end": "19:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "07:00",
+                "end": "19:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "07:00",
+                "end": "19:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "07:00",
+                "end": "19:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "2d80b86f-ff61-4e4b-b0d1-f6eab49d8dc9",
+        "geo": {
+            "address": "Конева ул, 2",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.560739,
+                "lon": 36.569346
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "22:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "c09c8ecd-4e1d-4042-b74e-8426260d1a53",
+        "geo": {
+            "address": "Ленинского Комсомола пр-кт, 48Б",
+            "city_id": "15597d7f-27c5-11e6-a3e4-001e6784c60c",
+            "city_name": "Курск",
+            "region_id": "72188747-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Курская область",
+            "location": {
+                "lat": 51.666909,
+                "lon": 36.092134
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "20:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "20:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "5eb5b02e-ea02-41ac-8048-f209e24d37c0",
+        "geo": {
+            "address": "Щорса ул, 22",
+            "city_id": "17c304fd-27c4-11e6-a3e4-001e6784c60c",
+            "city_name": "Белгород",
+            "region_id": "6c11e6bf-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Белгородская область",
+            "location": {
+                "lat": 50.57066,
+                "lon": 36.569131
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    },
+    {
+        "drugstore_id": "44aa4ebe-52df-4279-9b2a-bea61ad3e9a7",
+        "geo": {
+            "address": "Ленина ул, 61",
+            "city_id": "b4761ae1-9e92-11eb-9272-3cecef0d79b4",
+            "city_name": "Железногорск",
+            "region_id": "72188747-5649-11eb-9d79-00155d0c026e",
+            "region_name": "Курская область",
+            "location": {
+                "lat": 52.349794,
+                "lon": 35.34426
+            }
+        },
+        "phone": "8-800-2005-400",
+        "schedule": [
+            {
+                "day": 1,
+                "day_name": "Пн",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 2,
+                "day_name": "Вт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 3,
+                "day_name": "Ср",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 4,
+                "day_name": "Чт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 5,
+                "day_name": "Пт",
+                "start": "08:00",
+                "end": "21:00"
+            },
+            {
+                "day": 6,
+                "day_name": "Сб",
+                "start": "09:00",
+                "end": "21:00"
+            },
+            {
+                "day": 7,
+                "day_name": "Вс",
+                "start": "09:00",
+                "end": "21:00"
+            }
+        ]
+    }
+]

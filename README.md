@@ -5,20 +5,59 @@
 - Django
 - Django REST framework
 
-### Эндпоинты API:
+### Эндпоинты API - /api/:
 - drugstore/ - GET, POST - все аптеки, создание аптеки
 - drugstore/<id>/ - PUT, DELETE - редактирование аптеки, удаление аптеки
 - drugstore/?region='region_name' - GET - фильтрация аптек по региону
 - drugstore/?city='city_name' - GET - фильтрация аптек по городу
 - drugstore/near?lat=50.63&lon=38.40&radius=80 - GET - выдача ближайших аптек от географической координате на указанное расстояние в км
-- create_drugstores/ - POST - создание записей аптек из списка
+- create_drugstores/ - POST - создание множества записей аптек из списка
 
 ### Приложения проекта:
 - api - приложения для взаимодействия посредством API
 - drugstores - описание моделей, админка
  
+### <span style="color:red"> В связи с тем, что данный проект является тестовым заданием секретный ключ из settings.py не выносится в .env</span>
 
-### <span style="color:red"> В связи с тем, что данный проект является тестовым заданием секретный ключ из settings.py не выносится в .env </span>
+## Как запустить проект:
+Клонировать репозиторий и перейти в него в командной строке:
+```
+git clone https://github.com/vladimir-frozenfish/test-job-tabletochka-2.git
+```
+Cоздать и активировать виртуальное окружение:
+```
+python3 -m venv venv
+. env/bin/activate (для linux)
+sourse env/Scripts/activate (для Windows)
+```
+Установить зависимости из файла requirements.txt:
+```
+python3 -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+Создать, провести миграции, создать суперпользователя:
+```
+python3 manage.py makemigrations
+python3 manage.py migrate
+python3 manage.py createsuperuser
+```
+Запустить проект:
+```
+python3 manage.py runserver
+```
+Заполнить базу данных:
+```
+по ендпоинту - /api/create_drugstores/ - POST запросом передать список аптек из Json-файла /data/drugstores.json
+```
+
+
+## Примечание:
+Мой первый проект по данному заданию - https://github.com/vladimir-frozenfish/test-job-tabletochka-1
+В нем я описал модели аптеки и другие, не в соответствии с Json ответом, а как представлял себе более логичным.
+Из-за этого пришлось писать много кода, который бы давал Json ответы, соответствующие заданию.    
+
+Но все-таки решил сделать данный второй проект, где модели бы согласовывались с ответами по API.
+К сожалени тестов уже написать не успел, тестировал на все вручную, вводя правильные/неправльные данные.
 
 ### Автор
 Владимир Кириченко
