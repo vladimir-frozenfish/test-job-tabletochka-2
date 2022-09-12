@@ -39,11 +39,21 @@ class DrugstoreViewSet(viewsets.ModelViewSet):
         radius_lat = near['radius'] * COEFFICIENT_LAT
         radius_lon = near['radius'] * COEFFICIENT_LON
 
+        """фильтр аптек, находящихся в квадрате с указанной стороной от указанной точки"""
         drugstores = Drugstore.objects.filter(
             geo__location__lat__range=[float(near['lat']) - radius_lat, float(near['lat']) + radius_lat],
             geo__location__lon__range=[float(near['lon']) - radius_lon, float(near['lon']) + radius_lon]
         )
-        page = self.paginate_queryset(drugstores)
+
+        """фильтр аптек, ограниченным окружностью, с заданным радиусом"""
+        drugstores_radius = []
+        for drugstore in drugstores:
+            radius = (((float(near['lat']) - float(drugstore.geo.location.lat)) / COEFFICIENT_LAT) ** 2 + ((float(near['lon']) - float(drugstore.geo.location.lon)) / COEFFICIENT_LON) ** 2) ** 0.5
+            if radius < near['radius']:
+                drugstores_radius.append(drugstore)
+        print(len(drugstores_radius))
+
+        page = self.paginate_queryset(drugstores_radius)
         serializer = self.get_serializer(page, many=True)
 
         return self.get_paginated_response(serializer.data)
